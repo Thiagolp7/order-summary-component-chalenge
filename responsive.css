@@ -1,0 +1,33 @@
+/* ============================ 
+    #DESKTOP MEDIA 
+============================ */
+
+@media screen and (min-width: 500px) {
+  .main {
+    background: var(--bg-blue-light)
+      url(./images/pattern-background-desktop.svg) top center no-repeat;
+    background-size: 100vw 50vh;
+  }
+
+  .card {
+    width: 45.5rem;
+    height: 70rem;
+  }
+
+  .content {
+    padding: 5rem 5rem 0.9rem;
+  }
+
+  .content__title {
+    font-size: 3rem;
+  }
+
+  .content__description {
+    font-size: 1.7rem;
+  }
+
+  .plan-desc__title {
+    font-size: 1.6rem;
+    font-weight: 900;
+  }
+}
