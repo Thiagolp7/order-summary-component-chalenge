@@ -28,7 +28,7 @@
 
 .main {
   width: 100vw;
-  height: 100vh;
+  height: 98vh;
   background: var(--bg-blue-light) url(./images/pattern-background-mobile.svg)
     top center no-repeat;
   background-size: 100vw 50vh;
