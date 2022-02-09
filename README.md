@@ -10,7 +10,3 @@
 >
 > - HTML
 > - CSS
-
-> **Implementations**
->
-> - [x] Responsivity;
